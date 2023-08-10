@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Тигран Саркисян  
+![alt text](example.com/logo.png)
+
+![alt text](figures/img.png) 
