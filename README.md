@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-## Тигран Саркисян  
-![alt text](example.com/logo.png)
-
-![alt text](figures/img.png) 
+-->  
+I'm a backend-developer.  
+How to contact me: on 
+  - email: s.tigo@yandex.ru
+  - telegram: t.me/@Sarkisyan_Tigran  
+![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&theme=github&bg=%23FFFFFF&badge=%23EAEFFC&border=%23D8DEE4&titleColor=%230969DA&line1=Python%2CPython%2C62bf34%3BDjango%2CDjango%2Cd484ab%3BPostgreSQL%2CPostgreSQL%2C55b649%3BLinux%2CLinux%2C38aa6f%3BDocker%2CDocker%2C172a9f%3B&line2=HTML5%2CHTML5%2Cdc800a%3BNginx%2CNginx%2C41ed15%3BREST+API%2CREST+API%2C378008%3BPostman%2CPostman%2Cd59207%3BGunicorn%2CGunicorn%2C08df90%3BJSON%2CJSON%2C370c38%3B)
