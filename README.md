@@ -18,4 +18,4 @@ I'm a backend-developer.
 How to contact me: on 
   - email: s.tigo@yandex.ru
   - telegram: t.me/@Sarkisyan_Tigran  
-![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&theme=github&bg=%23FFFFFF&badge=%23EAEFFC&border=%23D8DEE4&titleColor=%230969DA&line1=Python%2CPython%2C62bf34%3BDjango%2CDjango%2Cd484ab%3BPostgreSQL%2CPostgreSQL%2C55b649%3BLinux%2CLinux%2C38aa6f%3BDocker%2CDocker%2C172a9f%3B&line2=HTML5%2CHTML5%2Cdc800a%3BNginx%2CNginx%2C41ed15%3BREST+API%2CREST+API%2C378008%3BPostman%2CPostman%2Cd59207%3BGunicorn%2CGunicorn%2C08df90%3BJSON%2CJSON%2C370c38%3B)
+![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&width=600&bg=%232c2a2a&badge=%2363ccdd&border=%23000000&titleColor=%23ffffff&line1=python%2Cpython%2C56c072%3BPostgreSQL%2CPostgreSQL%2C41cc4a%3BDjango%2CDjango%2C3933de%3BLinux%2CLinux%2Cc47427%3BDocker%2CDocker%2C526aff%3B&line2=Nginx%2CNginx%2C1d9f2a%3BPostman%2CPostman%2Cff7708%3BDjango+REST+framework%2CDjango+REST+framework%2C260009%3BGunicorn%2CGunicorn%2C99512a%3B)
